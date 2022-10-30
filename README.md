@@ -17,6 +17,9 @@ Currently it is specially made for [Slow Roads](https://slowroads.io/ "Slow Road
 
 
 # 3. Getting started
+
+**NOTE:** Only work for Xbox360 (maybe XboxOne) controllers. If you have a different one, which you cannot normaly map to Xbox controls, you can for example use x360ce.
+
 a) Download and install AutoHotKey from https://www.autohotkey.com/
 
 b) Download the scripts
