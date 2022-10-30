@@ -29,7 +29,7 @@ If you want to use the boost, toggle "double-tap to boost" to ON.
 
 ## b) Antivirus triger
 I noticed sometimes if the script glitches or the joystick disconnects and reconnects while the script is running, my antivirus (Avast) triggers for a virus warning. I assure it is not.
-The scripts are simple .TXT files renamed to .AHK (as the AutoHotKey tutorials suggest). The original TXT files are provided in folder ["Original"](Originals/)
+The scripts are simple .TXT files renamed to .AHK (as the AutoHotKey tutorials suggest). The original TXT files are provided in folder ["Originals"](Originals/)
 
 ## c) Mutlithreading
 Currently, there are 3 script files, running independently and thus - individually reading the inputs from the joystick. This way, repetitive inputs from one Axis do not break/mess with the timing of repetitive inputs from another Axis, as well as not having a delay in inputs.
