@@ -13,12 +13,12 @@ c) Misk (i.e. the digital buttons on the joystick mapped to other keys (handbrea
 It is meant for driving games without joystick support. This allows them to still be played with one. 
 
 *NOTE:*
-Currently it is specially made for [Slow Roads](https://slowroads.io/ "Slow Roads"), but the files are easy to edit with just notepad (or notepad++) to ajust for any other game.
+Currently it is specially made for [Slow Roads](https://slowroads.io/ "Slow Roads"), but the files are easy to edit with just notepad (or notepad++) to adjust for any other game.
 
 
 # 3. Getting started
 
-**NOTE:** Only work for Xbox360 (maybe XboxOne) controllers. If you have a different one, which you cannot normaly map to Xbox controls, you can for example use x360ce.
+**NOTE:** Only works for Xbox360 (maybe XboxOne) controllers. If you have a different one, which you cannot normaly map to Xbox controls, you can for example use x360ce.
 
 a) Download and install AutoHotKey from https://www.autohotkey.com/
 
