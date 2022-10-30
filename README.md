@@ -3,7 +3,9 @@ This is a set of scripts for the AutoHotKey software, allowing for analog inputs
 There are 3 files included, each tasked with different actions (I have not figured out mutlithreading yet). 
 
 a) Steering (i.e. X-axis on left joystick)
+
 b) Driving (i.e. the axis for L2 and R2 (combined on Xbox360???))
+
 c) Misk (i.e. the digital buttons on the joystick mapped to other keys (handbreak and boost in this case))
 
 
@@ -16,8 +18,11 @@ Currently it is specially made for [Slow Roads](https://slowroads.io/ "Slow Road
 
 # 3. Getting started
 a) Download and install AutoHotKey from https://www.autohotkey.com/
+
 b) Download the scripts
+
 c) Double click each one of the 3. A green icon with a H in it should appear for each script in the System Tray (bottom right). 
+
 d) To pause or turn off the scripts, right click on each of the squares with H in the System Tray and select "Pause Script" or "Exit"
 
 
